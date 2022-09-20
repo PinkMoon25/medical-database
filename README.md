@@ -1,5 +1,5 @@
-# medical-database
-A Medical database with PostgreSQL
+# Medical-clinic-database
+A Medical database with PostgreSQL built from a database schema diagram.
 
 ## Getting Started
 
