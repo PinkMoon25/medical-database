@@ -1,5 +1,7 @@
 # Medical-clinic-database
-A Medical database with PostgreSQL built from a database schema diagram ![](./clinic_diagram.png).
+A Medical database with PostgreSQL built from a database schema diagram.
+
+![](./clinic_diagram.png)
 
 ## Getting Started
 
