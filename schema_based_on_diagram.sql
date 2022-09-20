@@ -61,3 +61,9 @@ total_price decimal,
 invoice_id int,
 treatment_id int,
 primary key(id));
+
+ALTER TABLE invoice_items
+ADD FOREIGN KEY (invoice_id) REFERENCES invoices(id);
+
+ALTER TABLE invoice_items
+ADD FOREIGN KEY (treatment_id) REFERENCES treatments(id);
